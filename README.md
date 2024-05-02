@@ -2,7 +2,7 @@
 
 ## Add extension
 
-AIX 폴더에 있는 파일  
+AIX 폴더에 있는 확장 파일 로드 후 블럭 프로그램    
 
 ## MIT App Inventor Design
 
