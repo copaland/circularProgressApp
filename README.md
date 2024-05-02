@@ -6,7 +6,7 @@ AIX 폴더에 있는 파일
 
 ## MIT App Inventor Design
 
-![App Design](https://github.com/copaland/circularProgressApp/blob/main/img/mit_app_progress1.png){height="400px" width="500px"}  
+![App Design](https://github.com/copaland/circularProgressApp/blob/main/img/mit_app_progress1.png | width=100)  
 
 ## MIT App Inventor Block
 
